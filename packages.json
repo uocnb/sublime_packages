@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.1",
+    "packages": [
+        {
+            "name": "Logs colorize",
+            "author": "Uoc Nguyen",
+            "description": "Log files colorize",
+            "homepage": "https://github.com/tiger2wander/SublimeText2-Logs",
+            "last_modified": "2012-01-13 10:12:19",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/tiger2wander/SublimeText2-Logs/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
